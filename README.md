@@ -18,6 +18,8 @@
 # FAQ
 - I don't want to control the LEDs with the script / use OpenRGB, how to disable the warning popup?
 	- Delete `led_controller_openrgb.py`, the rest of the script will work fine without it.
+- How to hide the Command Prompt window on Windows?
+	- Rename the script from .py extension to .pyw and it won't display a Command Prompt window on startup.
 
 # Why?
 - Mostly because I was bored, and I don't want to keep iCUE installed just to be able to change the displayed image on the LCD. The script is 99% made by ChatGPT, so bugs / other issues can happen anytime as this is my first Python project which I started without any prior knowledge. Use at your own risk, I take no responsibility for any damage caused to your AIO, which is highly unlikely.
