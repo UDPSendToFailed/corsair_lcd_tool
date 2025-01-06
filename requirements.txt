@@ -4,3 +4,5 @@ opencv-python
 openrgb-python
 PyQt6
 pyyaml
+pywin32
+winshell
